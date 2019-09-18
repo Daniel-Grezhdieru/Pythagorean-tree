@@ -1,0 +1,16 @@
+C:\Users\grejd\Desktop\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.exe
+C:\Users\grejd\Desktop\howto_pythagorean_tree\obj\Debug\howto_pythagorean_tree.pdb
+C:\Users\grejd\Desktop\howto_pythagorean_tree\bin\Debug\howto_pythagorean_tree.exe
+C:\Users\grejd\Desktop\howto_pythagorean_tree\bin\Debug\howto_pythagorean_tree.pdb
+C:\Users\grejd\Desktop\howto_pythagorean_tree\obj\Debug\Pythagorean_tree.csprojResolveAssemblyReference.cache
+C:\Users\grejd\Desktop\howto_pythagorean_tree\obj\Debug\Pythagorean_tree.csproj.GenerateResource.Cache
+C:\Users\grejd\Desktop\howto_pythagorean_tree\obj\Debug\Pythagorean_tree.Form1.resources
+C:\Users\grejd\Desktop\howto_pythagorean_tree\obj\Debug\Pythagorean_tree.Properties.Resources.resources
+C:\Users\grejd\Desktop\pythagorean tree\obj\Debug\howto_pythagorean_tree.exe
+C:\Users\grejd\Desktop\pythagorean tree\obj\Debug\howto_pythagorean_tree.pdb
+C:\Users\grejd\Desktop\pythagorean tree\bin\Debug\howto_pythagorean_tree.exe
+C:\Users\grejd\Desktop\pythagorean tree\bin\Debug\howto_pythagorean_tree.pdb
+C:\Users\grejd\Desktop\pythagorean tree\obj\Debug\Pythagorean_tree.csprojResolveAssemblyReference.cache
+C:\Users\grejd\Desktop\pythagorean tree\obj\Debug\Pythagorean_tree.Form1.resources
+C:\Users\grejd\Desktop\pythagorean tree\obj\Debug\Pythagorean_tree.Properties.Resources.resources
+C:\Users\grejd\Desktop\pythagorean tree\obj\Debug\Pythagorean_tree.csproj.GenerateResource.Cache
